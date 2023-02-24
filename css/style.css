@@ -1,0 +1,19 @@
+.container-fluid .row .col-1 button:hover {
+    background-color: green;
+    border: 1px solid #fff;
+}
+
+.container-fluid .row .col-1 button a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.container .container-fluid .row .col-2 button a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.container .container-fluid .row .col-2 button:hover{
+    background-color: green;
+    border: 1px solid #fff;
+}
